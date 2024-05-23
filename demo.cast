@@ -1,0 +1,9 @@
+{"version": 2, "width": 120, "height": 30, "timestamp": 1716499182, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.009125, "o", "\u001b[?2004h\u001b]0;georgy@DESKTOP-39342DQ: ~/projects/fullstack-javascript-project-46\u0007\u001b[01;32mgeorgy@DESKTOP-39342DQ\u001b[00m:\u001b[01;34m~/projects/fullstack-javascript-project-46\u001b[00m$ "]
+[1.304486, "o", "gendiff file1.json file2.json"]
+[1.665299, "o", "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\bf\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"]
+[2.490613, "o", "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\bd\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"]
+[3.299101, "o", "\r\n\u001b[?2004l\r"]
+[3.363851, "o", "{\r\n  - follow: false\r\n    host: hexlet.io\r\n  - proxy: 123.234.53.22\r\n  - timeout: 50\r\n  + timeout: 20\r\n  + verbose: true\r\n}\r\n"]
+[3.36635, "o", "\u001b[?2004h\u001b]0;georgy@DESKTOP-39342DQ: ~/projects/fullstack-javascript-project-46\u0007\u001b[01;32mgeorgy@DESKTOP-39342DQ\u001b[00m:\u001b[01;34m~/projects/fullstack-javascript-project-46\u001b[00m$ "]
+[6.22825, "o", "\u001b[?2004l\r\r\nexit\r\n"]
